@@ -11,7 +11,7 @@ import android.widget.EditText
 import android.util.Log
 import android.content.Intent
 class MainActivity : AppCompatActivity() {
-    
+
     private lateinit var etTexto: EditText
     private lateinit var btnEnviar: Button
     private lateinit var btnPermiso: Button
